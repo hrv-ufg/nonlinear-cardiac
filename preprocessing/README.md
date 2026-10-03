@@ -11,7 +11,7 @@ pip install -r requirements.txt
 Then, make sure the data is organized according to the following structure or change the paths in the `src/config.py` file:
 
 ```plaintext
-vfc-diabeticos/
+hrv-cardiac/
 ├── data/
 │   ├── control/
 │   └── cardiac/
